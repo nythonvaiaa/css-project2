@@ -1,0 +1,25 @@
+.div1{
+   border: 3px solid rgb(19, 189, 19);
+   display: inline-block;
+   padding: 20px;
+   border-radius: 15px;
+}
+.red{
+   color: red;
+   font-weight: bold;
+}
+.sec1{
+   text-align: center;
+}
+.sec2{
+   text-align: center;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+.sec3{
+   text-align: center;
+   margin-top: 5px;
+}
+hr{
+   color: red;
+}
